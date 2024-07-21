@@ -23,7 +23,7 @@ This project showcases my skills in Object-Oriented Programming through various 
     * Deposit and withdraw funds.
     * Transfer funds between accounts.
     * Check account balances.
-**Data Storage:**
+* **Data Storage:**
 * I used text files (txt) to store all the required information, such as:
     * User information
     * Client information
