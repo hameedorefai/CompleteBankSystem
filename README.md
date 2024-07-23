@@ -33,9 +33,3 @@ This project showcases my skills in Object-Oriented Programming through various 
 
 **Feel free to clone the repository and explore the code. Contributions and feedback are welcome!**
 
-
-**Additional Information:**
-
-* The project is written in C++.
-  
-I hope this is helpful! Let me know if you have any other questions.
